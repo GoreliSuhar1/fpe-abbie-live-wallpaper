@@ -4,7 +4,7 @@ Animated live wallpaper featuring Abbie from Fundamental Paper Education.
 
 ## Preview
 
-<video src="https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_Park_Idle_Rain.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
+https://github.com/user-attachments/assets/3ab4f88d-ec4f-4605-a3ca-ad4b7bc222a5
 
 ![Preview](abbie_placeholder.png)
 
