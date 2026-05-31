@@ -1,5 +1,7 @@
 # FPE Abbie - Rainy Park Live Wallpaper
 
+# DO NOT DOWLOAD PREVIEW FILES ITS COMRESED BAD QUATLY !!!
+
 Animated live wallpaper featuring Abbie from Fundamental Paper Education.
 
 ## Preview
