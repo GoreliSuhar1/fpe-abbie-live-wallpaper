@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/3ab4f88d-ec4f-4605-a3ca-ad4b7bc222a5
 
 ## How to use
 * **Linux:** Download the original `FPE_Abbie_Park_Idle_Rain.mp4` and use it with your favorite wallpaper manager (like `mpvpaper` or `linux-wallpaperengine`) or as a background for your SDDM theme.
-* **Windows:** Subscribe to the wallpaper directly via the Steam Wallpaper Engine link above.
+* **Windows:** Subscribe to the wallpaper directly via the Steam Wallpaper Engine link above or download video file and use different software for live wallpapers.
