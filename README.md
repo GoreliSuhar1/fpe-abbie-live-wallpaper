@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/3ab4f88d-ec4f-4605-a3ca-ad4b7bc222a5
 
 ## Links
 
-[📥 Download Original MP4](https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_Park_Idle_Rain.mp4) | [🛠️ View on Steam Wallpaper Engine](ССЫЛКА_НА_ТВОЙ_ВОРКШОП_В_СТИМ)
+[📥 Download Original MP4](https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_Park_Idle_Rain.mp4) | [🛠️ View on Steam Wallpaper Engine](https://steamcommunity.com/sharedfiles/filedetails/?id=3736273899)
 
 ---
 
