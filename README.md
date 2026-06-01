@@ -13,7 +13,7 @@ Animated background featuring Abbie and Oliver from Fundamental Paper Education 
 ### Preview
 <video src="https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_and_Oliver_Park_Idle_Rain_compressed.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
 
-![Preview](abbie_placeholder.png)
+![Preview](abbie_oliver_placeholder.png)
 
 ### Links
 [📥 Download Original MP4](https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_and_Oliver_Park_Idle_Rain.mp4) | [🛠️ View on Steam Wallpaper Engine](https://steamcommunity.com/sharedfiles/filedetails/?id=3736734637)
