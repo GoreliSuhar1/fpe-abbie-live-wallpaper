@@ -13,7 +13,7 @@ Animated background featuring Abbie  from Fundamental Paper Education alone.
 
 ### Preview
 
-https://github.com/user-attachments/assets/73f43035-cb5a-4100-b992-f0503542a1b5
+https://github.com/user-attachments/assets/ec6f41b7-10de-44ab-9db3-1968568350bd
 
 ![Preview](abbie_oliver_placeholder.png)
 
