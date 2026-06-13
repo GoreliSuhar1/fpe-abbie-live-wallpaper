@@ -1,8 +1,8 @@
-# FPE - Rainy Park Live Wallpapers Pack
+# FPE - Live Wallpapers Pack
 
 # DO NOT DOWNLOAD PREVIEW FILES ITS COMPRESSED BAD QUALITY !!!
 
-A collection of animated live wallpapers featuring characters from Fundamental Paper Education sitting in a rainy park.
+A collection of animated live wallpapers featuring characters from Fundamental Paper Education.
 
 ---
 
