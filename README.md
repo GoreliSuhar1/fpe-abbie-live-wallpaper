@@ -6,7 +6,24 @@ A collection of animated live wallpapers featuring characters from Fundamental P
 
 ---
 
-## 1. FPE - Abbie & Oliver (Rainy Park) — NEW!
+
+## 1. FPE - Abbie (Alone) - NEW!!!
+
+Animated background featuring Abbie  from Fundamental Paper Education alone.
+
+### Preview
+
+https://github.com/user-attachments/assets/73f43035-cb5a-4100-b992-f0503542a1b5
+
+![Preview](abbie_oliver_placeholder.png)
+
+
+### Links
+[📥 Download Original MP4](https://raw.githubusercontent.com/GoreliSuhar1/fpe-abbie-live-wallpaper/main/FPE_Abbie_and_Oliver_Park_Idle_Rain.mp4) | [🛠️ View on Steam Wallpaper Engine](https://steamcommunity.com/sharedfiles/filedetails/?id=3736734637)
+
+---
+
+## 2. FPE - Abbie & Oliver (Rainy Park)
 
 Animated background featuring Abbie and Oliver from Fundamental Paper Education sitting in a rainy park.
 
@@ -22,7 +39,7 @@ https://github.com/user-attachments/assets/73f43035-cb5a-4100-b992-f0503542a1b5
 
 ---
 
-## 2. FPE - Abbie (Rainy Park)
+## 3. FPE - Abbie (Rainy Park)
 
 Animated live wallpaper featuring Abbie from Fundamental Paper Education.
 
